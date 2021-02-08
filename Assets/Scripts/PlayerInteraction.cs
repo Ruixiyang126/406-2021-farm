@@ -56,12 +56,6 @@ public class PlayerInteraction : MonoBehaviour
         {
             Clicked();
         }
-        //
-        // // Open Store
-        // if (Input.GetKeyDown(KeyCode.G))
-        // {
-        //     PlayerData.OpenStore();
-        // }
     }
 
     void Clicked()
